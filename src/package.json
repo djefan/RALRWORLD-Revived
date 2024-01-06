@@ -1,6 +1,6 @@
 {
-  "name": "bonziworld_revived",
-  "version": "1.6.0",
+  "name": "RALR",
+  "version": "1.0",
   "dependencies": {
     "grunt": "^1.1.0",
     "mespeak": "^2.0.2"
